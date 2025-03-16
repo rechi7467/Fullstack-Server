@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "e30sa3BKog6g14rF3XJIStYd/QULuv0nc+wIQIviXgY=",
+  "Source": "Fullstack-Server",
+  "BasePath": "_content/Fullstack-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
