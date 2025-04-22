@@ -1,0 +1,6 @@
+@rechi_auerbach_courses_HostAddress = http://localhost:5079
+
+GET {{rechi_auerbach_courses_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
